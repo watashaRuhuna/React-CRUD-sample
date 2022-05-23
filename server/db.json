@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "id": 1001,
+      "name": "watasha",
+      "email": "watasha@gmail.com",
+      "city": "Colombo"
+    },
+    {
+      "id": 1002,
+      "name": "Harshani",
+      "email": "Harshani@gmail.com",
+      "city": "Colombo"
+    }
+  ]
+}
